@@ -2,7 +2,7 @@
 
 My name is Daniel Danev, and this is my GitHub. I'm currently in the final stretch of my [MSc Computer Science (Conversion)](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=PROG&MAJR=T195) degree from University College Dublin. I previously graduated from Trinity College Dublin with a degree in Engineering with Management.
 
-You can check out my personal website [here](www.danev.xyz); or my [LinkedIn](https://www.linkedin.com/in/danielkdanev/)
+You can check out my personal website [here](https://www.danev.xyz); or my [LinkedIn](https://www.linkedin.com/in/danielkdanev/)
 
 <!--
 **danevd-TCD/danevd-TCD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
